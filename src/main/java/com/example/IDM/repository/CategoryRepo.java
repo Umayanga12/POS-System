@@ -1,9 +1,8 @@
 package com.example.IDM.repository;
 
-import com.idm.edu.POS.system.model.CategoryModel;
-import org.springframework.data.jpa.repository.JpaRepository;
 
-import java.util.Optional;
+import com.example.IDM.model.CategoryModel;
+import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CategoryRepo extends JpaRepository<CategoryModel, Long> {
 }
