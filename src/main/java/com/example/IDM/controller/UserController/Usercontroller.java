@@ -24,8 +24,6 @@ public class Usercontroller {
         return userRepo.save(newUser);
     }
 
-
-
     @GetMapping("/{id}")
     UserModel getUserDetailById(@PathVariable long id){
         return userRepo.findById(id).orElseThrow(() -> new UserDetailNotAvailableExpection(id));
