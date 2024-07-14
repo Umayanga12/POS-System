@@ -41,9 +41,6 @@ To run this application locally, follow these steps:
    - Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, etc.).
    - Build and run the project using Maven or directly from your IDE.
 
-4. **API Documentation**:
-   - Once the application is running, access Swagger UI at `http://localhost:8080/swagger-ui.html` for API documentation and testing.
-
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.
