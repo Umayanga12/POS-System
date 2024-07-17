@@ -10,18 +10,14 @@ This repository contains the backend implementation for the TechTrend POS (Point
 ## Features
 
 - **Inventory Management**: CRUD operations for managing products, categories, and stock levels.
-- **Sales Transactions**: Processing sales, applying discounts, and updating inventory.
-- **Reporting**: Generate daily, weekly, and monthly sales reports.
-- **Security**: Role-based access control (RBAC) using Spring Security.
 
 ## Technologies Used
 
-- **Java 11**: Programming language.
+- **Java 20**: Programming language.
 - **Spring Boot 2.5.2**: Backend framework.
 - **MariaDB 10.5**: Database management system.
 - **Hibernate**: Object-relational mapping (ORM) tool.
 - **Spring Security**: Authentication and authorization.
-- **Swagger**: API documentation.
 
 ## Getting Started
 
