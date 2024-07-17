@@ -1,7 +1,7 @@
 
 # TechTrend POS System Backend
 
-![Java Version](https://img.shields.io/badge/Java-11-blue)
+![Java Version](https://img.shields.io/badge/Java-20-blue)
 ![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-2.5.2-green)
 ![MariaDB Version](https://img.shields.io/badge/MariaDB-10.5-yellow)
 
